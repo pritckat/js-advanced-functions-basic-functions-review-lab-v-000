@@ -13,4 +13,6 @@ function wrapAdjective(str='*') {
   }
 }
 
-let calculator = {}
+class Calculator {
+  
+}
