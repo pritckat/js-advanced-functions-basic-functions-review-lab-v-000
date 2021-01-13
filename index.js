@@ -14,5 +14,5 @@ function wrapAdjective(str='*') {
 }
 
 class Calculator {
-
+  def add() {}
 }
