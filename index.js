@@ -13,4 +13,4 @@ function wrapAdjective(str='*') {
   }
 }
 
-let Calculator = Object.new()
+let Calculator = Object.create()
